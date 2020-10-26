@@ -1,0 +1,54 @@
+INFO: Creating initial set of members and activities
+
+INFO: Creating Member: Default, Admin, admin@club.it, password
+INFO: Creating Member: Marco, Rossi, m.rossi@club.it, password123
+INFO: Creating Member: Lorenzo, Bianchi, l.bianchi@club.it, password1212
+INFO: Creating Member: Mario, Bianchi, m.bianchi@club.it, password1234
+INFO: Creating Activity: Nuoto (COURSE)
+INFO: Creating Activity: 100m Sprint (COMPETITION)
+INFO: Creating Activity: Boxe (COURSE)
+
+
+INFO: Printing member list
+
+Default Admin, admin@club.it
+Marco Rossi, m.rossi@club.it
+Lorenzo Bianchi, l.bianchi@club.it
+Mario Bianchi, m.bianchi@club.it
+
+
+INFO: Creating Member: Pippo, Baudo, p.baudo@club.it, 1111
+INFO: Admin Default Admin, admin@club.it is adding Member Pippo Baudo, p.baudo@club.it
+INFO: Admin Default Admin, admin@club.it is removing Member Lorenzo Bianchi, l.bianchi@club.it
+INFO: Admin Default Admin, admin@club.it is updating the name of Member Mario Bianchi, m.bianchi@club.it with Mariotto
+INFO: Member Default Admin, admin@club.it is logging out
+INFO: Enrolling in Activity: Nuoto (COURSE)
+INFO: Enrolling Pippo Baudo, p.baudo@club.it in Activity: Nuoto (COURSE)
+INFO: Enrolling in Activity: 100m Sprint (COMPETITION)
+INFO: Enrolling Pippo Baudo, p.baudo@club.it in Activity: 100m Sprint (COMPETITION)
+INFO: Quitting Activity: Nuoto (COURSE)
+INFO: Removing Pippo Baudo, p.baudo@club.it in Activity: Nuoto (COURSE)
+INFO: Member Pippo Baudo, p.baudo@club.it is logging out
+
+
+INFO: Printing activity list
+
+Nuoto (COURSE)
+
+100m Sprint (COMPETITION)
+Pippo Baudo, p.baudo@club.it
+
+Boxe (COURSE)
+
+
+
+
+
+INFO: Printing member list
+
+Default Admin, admin@club.it
+Marco Rossi, m.rossi@club.it
+Mariotto Bianchi, m.bianchi@club.it
+Pippo Baudo, p.baudo@club.it
+
+
